@@ -1,0 +1,37 @@
+m255
+K3
+13
+cModel Technology
+Z0 dF:\4th Level Semester 2\Logic 2 Projects\Demux1-8
+T_opt
+VG<n6]IL1MQ9_ihng_QPg_0
+04 5 10 work demux behavioral 1
+Z1 =1-204747c22273-62308dc2-199-4408
+Z2 o-quiet -auto_acc_if_foreign -work work +acc
+Z3 n@_opt
+Z4 OE;O;6.5;42
+Edemux
+Z5 w1647349162
+Z6 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+Z7 8demux.vhd
+Z8 Fdemux.vhd
+l0
+L32
+Z9 VJ4famkjA4ZIf]l3Pic59h0
+Z10 OE;C;6.5;42
+31
+Z11 o-explicit -93
+Z12 tExplicit 1
+Z13 !s100 8MBa@nkj2fa6`fK@IRG4^2
+Abehavioral
+R6
+Z14 DEx4 work 5 demux 0 22 J4famkjA4ZIf]l3Pic59h0
+l49
+L47
+Z15 VlU1jb^>PfldC69>Ce4giR0
+R10
+31
+Z16 Mx1 4 ieee 14 std_logic_1164
+R11
+R12
+Z17 !s100 iL;Uj?mIJ>[OOFE]UmUD>1

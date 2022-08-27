@@ -1,0 +1,1 @@
+ -L labsdpro_lib -l transcript.txt -i -t ns -multisource_delay latest +typdelays labsdpro_lib.struct(fsm)

@@ -1,0 +1,53 @@
+# Reading C:/modeltech_6.5/tcl/vsim/pref.tcl 
+# //  ModelSim SE 6.5 Jan 22 2009 
+# //
+# //  Copyright 1991-2009 Mentor Graphics Corporation
+# //              All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND 
+# //  PROPRIETARY INFORMATION WHICH IS THE PROPERTY
+# //  OF MENTOR GRAPHICS CORPORATION OR ITS LICENSORS
+# //  AND IS SUBJECT TO LICENSE TERMS.
+# //
+# do {MUX_16_1.fdo} 
+# Model Technology ModelSim SE vcom 6.5 Compiler 2009.01 Jan 22 2009
+# -- Loading package standard
+# -- Loading package std_logic_1164
+# -- Compiling entity mux_16_1
+# -- Compiling architecture behavioral of mux_16_1
+# vsim -lib work -voptargs=\"+acc\" -t 1ps work.MUX_16_1 
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading work.mux_16_1(behavioral)#1
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body
+force -freeze sim:/mux_16_1/selector 1111 0
+force -freeze sim:/mux_16_1/enable1 1 0
+force -freeze sim:/mux_16_1/enable2 0 0
+force -freeze sim:/mux_16_1/inp16 1111111100000000 0
+run
+# Updating msgviewer database...
+run
+# Updating msgviewer database...
+run
+# Updating msgviewer database...
+run
+# Updating msgviewer database...
+run
+# Updating msgviewer database...
+force -freeze sim:/mux_16_1/enable1 0 0
+run
+# Updating msgviewer database...
+force -freeze sim:/mux_16_1/enable1 1 0
+run
+# Updating msgviewer database...
+run
+# Updating msgviewer database...
+run
+# Updating msgviewer database...
+run
+# Updating msgviewer database...
+run
+# Updating msgviewer database...

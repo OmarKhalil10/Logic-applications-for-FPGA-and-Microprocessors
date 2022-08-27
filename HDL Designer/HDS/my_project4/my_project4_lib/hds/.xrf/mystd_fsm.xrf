@@ -1,0 +1,208 @@
+DESIGN mystd
+VIEW interface
+NO_GRAPHIC 0
+DESIGN mystd
+VIEW interface
+GRAPHIC 50,0 8 0 
+DESIGN mystd
+VIEW interface
+GRAPHIC 372,0 14 0 
+DESIGN mystd
+VIEW interface
+GRAPHIC 377,0 15 0 
+DESIGN mystd
+VIEW interface
+GRAPHIC 387,0 16 0 
+DESIGN mystd
+VIEW interface
+GRAPHIC 382,0 17 0 
+DESIGN mystd
+VIEW interface
+GRAPHIC 1,0 20 0 
+DESIGN mystd
+VIEW interface
+GRAPHIC 1,0 21 0 
+LIBRARY my_project4_lib
+DESIGN mystd
+VIEW fsm.sm
+GRAPHIC 27,0 33 0
+LIBRARY my_project4_lib
+DESIGN mystd
+VIEW fsm.sm
+NO_GRAPHIC 36
+LIBRARY my_project4_lib
+DESIGN mystd
+VIEW fsm.sm
+GRAPHIC 2,0 52 0
+LIBRARY my_project4_lib
+DESIGN mystd
+VIEW fsm.sm
+NO_GRAPHIC 53
+LIBRARY my_project4_lib
+DESIGN mystd
+VIEW fsm.sm
+GRAPHIC 2,0 56 0
+LIBRARY my_project4_lib
+DESIGN mystd
+VIEW fsm.sm
+NO_GRAPHIC 57
+LIBRARY my_project4_lib
+DESIGN mystd
+VIEW fsm.sm
+GRAPHIC 66,0 58 0
+LIBRARY my_project4_lib
+DESIGN mystd
+VIEW fsm.sm
+GRAPHIC 56,0 60 0
+LIBRARY my_project4_lib
+DESIGN mystd
+VIEW fsm.sm
+NO_GRAPHIC 61
+LIBRARY my_project4_lib
+DESIGN mystd
+VIEW fsm.sm
+GRAPHIC 2,0 63 0
+LIBRARY my_project4_lib
+DESIGN mystd
+VIEW fsm.sm
+NO_GRAPHIC 64
+LIBRARY my_project4_lib
+DESIGN mystd
+VIEW fsm.sm
+GRAPHIC 2,0 66 0
+LIBRARY my_project4_lib
+DESIGN mystd
+VIEW fsm.sm
+NO_GRAPHIC 67
+LIBRARY my_project4_lib
+DESIGN mystd
+VIEW fsm.sm
+GRAPHIC 2,0 72 0
+LIBRARY my_project4_lib
+DESIGN mystd
+VIEW fsm.sm
+GRAPHIC 260,0 73 0
+LIBRARY my_project4_lib
+DESIGN mystd
+VIEW fsm.sm
+GRAPHIC 299,0 74 0
+LIBRARY my_project4_lib
+DESIGN mystd
+VIEW fsm.sm
+GRAPHIC 277,0 75 0
+LIBRARY my_project4_lib
+DESIGN mystd
+VIEW fsm.sm
+NO_GRAPHIC 76
+LIBRARY my_project4_lib
+DESIGN mystd
+VIEW fsm.sm
+GRAPHIC 260,0 77 0
+LIBRARY my_project4_lib
+DESIGN mystd
+VIEW fsm.sm
+NO_GRAPHIC 78
+LIBRARY my_project4_lib
+DESIGN mystd
+VIEW fsm.sm
+GRAPHIC 277,0 79 0
+LIBRARY my_project4_lib
+DESIGN mystd
+VIEW fsm.sm
+GRAPHIC 336,0 80 0
+LIBRARY my_project4_lib
+DESIGN mystd
+VIEW fsm.sm
+GRAPHIC 314,0 81 0
+LIBRARY my_project4_lib
+DESIGN mystd
+VIEW fsm.sm
+NO_GRAPHIC 82
+LIBRARY my_project4_lib
+DESIGN mystd
+VIEW fsm.sm
+GRAPHIC 277,0 83 0
+LIBRARY my_project4_lib
+DESIGN mystd
+VIEW fsm.sm
+NO_GRAPHIC 84
+LIBRARY my_project4_lib
+DESIGN mystd
+VIEW fsm.sm
+GRAPHIC 314,0 85 0
+LIBRARY my_project4_lib
+DESIGN mystd
+VIEW fsm.sm
+GRAPHIC 89,0 87 0
+LIBRARY my_project4_lib
+DESIGN mystd
+VIEW fsm.sm
+NO_GRAPHIC 89
+LIBRARY my_project4_lib
+DESIGN mystd
+VIEW fsm.sm
+GRAPHIC 2,0 90 0
+LIBRARY my_project4_lib
+DESIGN mystd
+VIEW fsm.sm
+NO_GRAPHIC 91
+LIBRARY my_project4_lib
+DESIGN mystd
+VIEW fsm.sm
+GRAPHIC 2,0 93 0
+LIBRARY my_project4_lib
+DESIGN mystd
+VIEW fsm.sm
+NO_GRAPHIC 94
+LIBRARY my_project4_lib
+DESIGN mystd
+VIEW fsm.sm
+GRAPHIC 2,0 101 0
+LIBRARY my_project4_lib
+DESIGN mystd
+VIEW fsm.sm
+GRAPHIC 260,0 102 0
+LIBRARY my_project4_lib
+DESIGN mystd
+VIEW fsm.sm
+GRAPHIC 275,0 103 0
+LIBRARY my_project4_lib
+DESIGN mystd
+VIEW fsm.sm
+GRAPHIC 299,0 105 0
+LIBRARY my_project4_lib
+DESIGN mystd
+VIEW fsm.sm
+GRAPHIC 300,0 106 0
+LIBRARY my_project4_lib
+DESIGN mystd
+VIEW fsm.sm
+NO_GRAPHIC 107
+LIBRARY my_project4_lib
+DESIGN mystd
+VIEW fsm.sm
+GRAPHIC 277,0 108 0
+LIBRARY my_project4_lib
+DESIGN mystd
+VIEW fsm.sm
+GRAPHIC 292,0 109 0
+LIBRARY my_project4_lib
+DESIGN mystd
+VIEW fsm.sm
+GRAPHIC 336,0 110 0
+LIBRARY my_project4_lib
+DESIGN mystd
+VIEW fsm.sm
+GRAPHIC 337,0 111 0
+LIBRARY my_project4_lib
+DESIGN mystd
+VIEW fsm.sm
+NO_GRAPHIC 112
+LIBRARY my_project4_lib
+DESIGN mystd
+VIEW fsm.sm
+GRAPHIC 2,0 115 0
+LIBRARY my_project4_lib
+DESIGN mystd
+VIEW fsm.sm
+NO_GRAPHIC 117

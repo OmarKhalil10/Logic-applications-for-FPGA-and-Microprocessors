@@ -1,0 +1,47 @@
+# //  ModelSim SE 6.5 Jan 22 2009 
+# //
+# //  Copyright 1991-2009 Mentor Graphics Corporation
+# //              All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND 
+# //  PROPRIETARY INFORMATION WHICH IS THE PROPERTY
+# //  OF MENTOR GRAPHICS CORPORATION OR ITS LICENSORS
+# //  AND IS SUBJECT TO LICENSE TERMS.
+# //
+# vsim -L labsdpro_lib -l transcript.txt -i -multisource_delay latest -t ns +typdelays -foreign {hdsInit C:/MentorGraphics/HDS2010.2a/resources/downstream/modelsim/ModelSim_32Bit.dll} -pli C:/MentorGraphics/HDS2010.2a/resources/downstream/modelsim/ModelSim_32Bit.dll labsdpro_lib.struct(fsm) 
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Note: (vsim-3865) Due to PLI being present, full design access is being specified.
+# Loading C:/MentorGraphics/HDS2010.2a/resources/downstream/modelsim/ModelSim_32Bit.dll
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading work.struct(fsm)#1
+force -freeze sim:/struct/rst 0 0
+run
+# ** Fatal: (vsim-3421) Value 16 is out of range 0 to 15.
+#    Time: 0 ns  Iteration: 0  Process: /struct/output_proc File: F:/4th Level Semester 2/Logic 2/Logic 2 Projects/HDL Designer/Clocks/labsdpro_lib/hdl/struct_fsm.vhd
+# Fatal error in Process output_proc at F:/4th Level Semester 2/Logic 2/Logic 2 Projects/HDL Designer/Clocks/labsdpro_lib/hdl/struct_fsm.vhd line 121
+# 
+# HDL call sequence:
+# Stopped at F:/4th Level Semester 2/Logic 2/Logic 2 Projects/HDL Designer/Clocks/labsdpro_lib/hdl/struct_fsm.vhd 121 Process output_proc
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at F:/4th Level Semester 2/Logic 2/Logic 2 Projects/HDL Designer/Clocks/labsdpro_lib/hdl/struct_fsm.vhd 121 Process output_proc
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at F:/4th Level Semester 2/Logic 2/Logic 2 Projects/HDL Designer/Clocks/labsdpro_lib/hdl/struct_fsm.vhd 121 Process output_proc
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at F:/4th Level Semester 2/Logic 2/Logic 2 Projects/HDL Designer/Clocks/labsdpro_lib/hdl/struct_fsm.vhd 73 Process nextstate_proc
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at F:/4th Level Semester 2/Logic 2/Logic 2 Projects/HDL Designer/Clocks/labsdpro_lib/hdl/struct_fsm.vhd 73 Process nextstate_proc
+# 

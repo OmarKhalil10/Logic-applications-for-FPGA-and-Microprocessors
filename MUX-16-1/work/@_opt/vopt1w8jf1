@@ -1,0 +1,37 @@
+m255
+K3
+13
+cModel Technology
+Z0 dF:\4th Level Semester 2\Logic 2 Projects\MUX-16-1
+T_opt
+Z1 V8;:3QFkMjfM>keoP:VR7N0
+Z2 04 8 10 work mux_16_1 behavioral 1
+Z3 =1-204747c22273-62384254-ee-24d4
+Z4 o-quiet -auto_acc_if_foreign -work work +acc
+Z5 n@_opt
+Z6 OE;O;6.5;42
+Emux_16_1
+Z7 w1647854128
+Z8 DPx21 C:\modeltech_6.5\ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+31
+Z9 8MUX-16-1.vhd
+Z10 FMUX-16-1.vhd
+l0
+L32
+Z11 V8Qof0MhM^:=Vi3gaIkP7g1
+Z12 OE;C;6.5;42
+Z13 o-explicit -93
+Z14 tExplicit 1
+Z15 !s100 @`=>_4RNJ6VSGT8D86SI`3
+Abehavioral
+R8
+DEx54 F:\4th Level Semester 2\Logic 2 Projects\MUX-16-1\work 8 mux_16_1 0 22 8Qof0MhM^:=Vi3gaIkP7g1
+31
+Mx1 21 C:\modeltech_6.5\ieee 14 std_logic_1164
+l57
+L55
+Z16 VmFSL:chN13DjFHIa[5L5D2
+R12
+R13
+R14
+Z17 !s100 d49D0`>PJY@EP2zBn?Gdb2

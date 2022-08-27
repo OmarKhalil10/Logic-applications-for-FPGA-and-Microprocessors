@@ -1,0 +1,13 @@
+[ModelSim]
+my_project4_lib = $HDS_PROJECT_DIR\my_project4_lib\work
+[hdl]
+my_project4_lib = $HDS_PROJECT_DIR\my_project4_lib\hdl
+[hds]
+my_project4_lib = $HDS_PROJECT_DIR\my_project4_lib\hds
+[hds_settings]
+default_library = my_project4_lib
+version = 2
+[library_type]
+my_project4_lib = regular
+[shared]
+others = $HDS_TEAM_HOME/shared.hdp

@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dF:\4th Level Semester 2\Logic 2\Logic 2 Projects\ROM-512-8
+T_opt
+Z1 VgLGjUWLfW?zdPzLh2m>RK1
+Z2 04 3 10 work rom behavioral 1
+Z3 =1-204747c22273-6254949b-334-2028
+Z4 o-quiet -auto_acc_if_foreign -work work +acc
+Z5 n@_opt
+Z6 OE;O;6.5;42
+Erom
+Z7 w1649710199
+Z8 DPx21 C:\modeltech_6.5\ieee 15 std_logic_arith 0 22 GJbAT?7@hRQU9IQ702DT]2
+Z9 DPx21 C:\modeltech_6.5\ieee 18 std_logic_unsigned 0 22 hEMVMlaNCR^<OOoVNV;m90
+Z10 DPx21 C:\modeltech_6.5\ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+31
+Z11 8ROM.vhd
+Z12 FROM.vhd
+l0
+L33
+Z13 VAOon0AdHS_eojf9KFCl5m3
+Z14 OE;C;6.5;42
+Z15 o-explicit -93
+Z16 tExplicit 1
+Z17 !s100 Nki^d`l_JcGEXgOHjXBcG3
+Abehavioral
+R8
+R9
+R10
+DEx63 F:\4th Level Semester 2\Logic 2\Logic 2 Projects\ROM-512-8\work 3 rom 0 22 AOon0AdHS_eojf9KFCl5m3
+31
+Mx3 21 C:\modeltech_6.5\ieee 14 std_logic_1164
+Mx2 21 C:\modeltech_6.5\ieee 18 std_logic_unsigned
+Mx1 21 C:\modeltech_6.5\ieee 15 std_logic_arith
+l64
+L45
+Z18 VKnfBiLhX<CB>ZY18?FSC80
+R14
+R15
+R16
+Z19 !s100 j<TnKiT95KUW^zOkYmgcM2

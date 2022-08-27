@@ -1,0 +1,37 @@
+m255
+K3
+13
+cModel Technology
+Z0 dF:\4th Level Semester 2\Logic 2 Projects\Encoder-3-8-withEn
+T_opt
+Z1 V]MT]aMmK5Q6faJHiZi3Yb1
+Z2 04 7 10 work encoder behavioral 1
+Z3 =1-204747c22273-622d0169-1df-3f08
+Z4 o-quiet -auto_acc_if_foreign -work work +acc
+Z5 n@_opt
+Z6 OE;O;6.5;42
+Eencoder
+Z7 w1647116597
+Z8 DPx21 C:\modeltech_6.5\ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+31
+Z9 8Encoder.vhd
+Z10 FEncoder.vhd
+l0
+L32
+Z11 V2d:fE]AC@6K8mJJRLK]992
+Z12 OE;C;6.5;42
+Z13 o-explicit -93
+Z14 tExplicit 1
+Z15 !s100 >W=L14kA22`BS^[W[@7[70
+Abehavioral
+R8
+DEx64 F:\4th Level Semester 2\Logic 2 Projects\Encoder-3-8-withEn\work 7 encoder 0 22 2d:fE]AC@6K8mJJRLK]992
+31
+Mx1 21 C:\modeltech_6.5\ieee 14 std_logic_1164
+l41
+L39
+Z16 VSJ9e;a3`e?i[aH<a68U@W0
+R12
+R13
+R14
+Z17 !s100 T>]LmXSgX`bca5EF]4<Jz1

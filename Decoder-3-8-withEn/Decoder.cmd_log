@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "F:/4th Level Semester 2/Logic 2 Projects/Decoder-3-8-withEn/Decoder.xst" -ofn "F:/4th Level Semester 2/Logic 2 Projects/Decoder-3-8-withEn/Decoder.syr" 
+xst -intstyle ise -ifn "F:/4th Level Semester 2/Logic 2 Projects/Decoder-3-8-withEn/Decoder.xst" -ofn "F:/4th Level Semester 2/Logic 2 Projects/Decoder-3-8-withEn/Decoder.syr" 

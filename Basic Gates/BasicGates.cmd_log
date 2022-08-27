@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "F:/4th Level Semester 2/Logic 2 Projects/John/BasicGates.xst" -ofn "F:/4th Level Semester 2/Logic 2 Projects/John/BasicGates.syr" 
+xst -intstyle ise -ifn "F:/4th Level Semester 2/Logic 2 Projects/John/BasicGates.xst" -ofn "F:/4th Level Semester 2/Logic 2 Projects/John/BasicGates.syr" 

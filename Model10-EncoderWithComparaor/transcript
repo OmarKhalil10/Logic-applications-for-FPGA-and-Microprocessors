@@ -1,0 +1,35 @@
+# Reading C:/modeltech_6.5/tcl/vsim/pref.tcl 
+# //  ModelSim SE 6.5 Jan 22 2009 
+# //
+# //  Copyright 1991-2009 Mentor Graphics Corporation
+# //              All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND 
+# //  PROPRIETARY INFORMATION WHICH IS THE PROPERTY
+# //  OF MENTOR GRAPHICS CORPORATION OR ITS LICENSORS
+# //  AND IS SUBJECT TO LICENSE TERMS.
+# //
+# do {Encoder.fdo} 
+# Model Technology ModelSim SE vcom 6.5 Compiler 2009.01 Jan 22 2009
+# -- Loading package standard
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package std_logic_unsigned
+# -- Compiling entity encoder
+# -- Compiling architecture behavioral of encoder
+# vsim -lib work -voptargs=\"+acc\" -t 1ps work.Encoder 
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.encoder(behavioral)#1
+force -freeze sim:/encoder/inp 00000001 0
+force -freeze sim:/encoder/data_bus1 10000000 0
+force -freeze sim:/encoder/data_bus2 00000001 0
+force -freeze sim:/encoder/en 1 0
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body
+run
+run

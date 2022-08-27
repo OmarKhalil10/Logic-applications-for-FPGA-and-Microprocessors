@@ -1,0 +1,104 @@
+# //  ModelSim SE 6.5 Jan 22 2009 
+# //
+# //  Copyright 1991-2009 Mentor Graphics Corporation
+# //              All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND 
+# //  PROPRIETARY INFORMATION WHICH IS THE PROPERTY
+# //  OF MENTOR GRAPHICS CORPORATION OR ITS LICENSORS
+# //  AND IS SUBJECT TO LICENSE TERMS.
+# //
+# vsim -L my_project4_lib -l transcript.txt -i -multisource_delay latest -t ns +typdelays -foreign {hdsInit C:/MentorGraphics/HDS2010.2a/resources/downstream/modelsim/ModelSim_32Bit.dll} -pli C:/MentorGraphics/HDS2010.2a/resources/downstream/modelsim/ModelSim_32Bit.dll my_project4_lib.mystd(fsm) 
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# ** Note: (vsim-3865) Due to PLI being present, full design access is being specified.
+# Loading C:/MentorGraphics/HDS2010.2a/resources/downstream/modelsim/ModelSim_32Bit.dll
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading work.mystd(fsm)#1
+run
+# ** Fatal: (vsim-3421) Value 16 is out of range 0 to 15.
+#    Time: 0 ns  Iteration: 15  Process: /mystd/output_proc File: F:/4th Level Semester 2/Logic 2/Logic 2 Projects/HDL Designer/HDS/my_project4/my_project4_lib/hdl/mystd_fsm.vhd
+# Fatal error in Process output_proc at F:/4th Level Semester 2/Logic 2/Logic 2 Projects/HDL Designer/HDS/my_project4/my_project4_lib/hdl/mystd_fsm.vhd line 105
+# 
+# HDL call sequence:
+# Stopped at F:/4th Level Semester 2/Logic 2/Logic 2 Projects/HDL Designer/HDS/my_project4/my_project4_lib/hdl/mystd_fsm.vhd 105 Process output_proc
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at F:/4th Level Semester 2/Logic 2/Logic 2 Projects/HDL Designer/HDS/my_project4/my_project4_lib/hdl/mystd_fsm.vhd 105 Process output_proc
+# 
+force -freeze sim:/mystd/rst 0 0
+# hds_anim_enable /mystd/ TRUE 0 - current_state _proc 
+# Instance /mystd was not generated for animation, limited capabilities are still available
+# Now sending details of /mystd to HDS for animation
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at F:/4th Level Semester 2/Logic 2/Logic 2 Projects/HDL Designer/HDS/my_project4/my_project4_lib/hdl/mystd_fsm.vhd 105 Process output_proc
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at F:/4th Level Semester 2/Logic 2/Logic 2 Projects/HDL Designer/HDS/my_project4/my_project4_lib/hdl/mystd_fsm.vhd 105 Process output_proc
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at F:/4th Level Semester 2/Logic 2/Logic 2 Projects/HDL Designer/HDS/my_project4/my_project4_lib/hdl/mystd_fsm.vhd 105 Process output_proc
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at F:/4th Level Semester 2/Logic 2/Logic 2 Projects/HDL Designer/HDS/my_project4/my_project4_lib/hdl/mystd_fsm.vhd 105 Process output_proc
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at F:/4th Level Semester 2/Logic 2/Logic 2 Projects/HDL Designer/HDS/my_project4/my_project4_lib/hdl/mystd_fsm.vhd 105 Process output_proc
+# 
+force -freeze sim:/mystd/clk 1 0, 0 {20 ns} -r 100
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at F:/4th Level Semester 2/Logic 2/Logic 2 Projects/HDL Designer/HDS/my_project4/my_project4_lib/hdl/mystd_fsm.vhd 105 Process output_proc
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at F:/4th Level Semester 2/Logic 2/Logic 2 Projects/HDL Designer/HDS/my_project4/my_project4_lib/hdl/mystd_fsm.vhd 105 Process output_proc
+# 
+force -freeze sim:/mystd/tclk 0 0
+run
+# 0
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at F:/4th Level Semester 2/Logic 2/Logic 2 Projects/HDL Designer/HDS/my_project4/my_project4_lib/hdl/mystd_fsm.vhd 105 Process output_proc
+# 
+run -continue
+# 0
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at F:/4th Level Semester 2/Logic 2/Logic 2 Projects/HDL Designer/HDS/my_project4/my_project4_lib/hdl/mystd_fsm.vhd 105 Process output_proc
+# 
+run -continue
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at F:/4th Level Semester 2/Logic 2/Logic 2 Projects/HDL Designer/HDS/my_project4/my_project4_lib/hdl/mystd_fsm.vhd 105 Process output_proc
+# 
+run -continue
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at F:/4th Level Semester 2/Logic 2/Logic 2 Projects/HDL Designer/HDS/my_project4/my_project4_lib/hdl/mystd_fsm.vhd 105 Process output_proc
+# 
+run -continue
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at F:/4th Level Semester 2/Logic 2/Logic 2 Projects/HDL Designer/HDS/my_project4/my_project4_lib/hdl/mystd_fsm.vhd 105 Process output_proc
+# 
+run -continue
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at F:/4th Level Semester 2/Logic 2/Logic 2 Projects/HDL Designer/HDS/my_project4/my_project4_lib/hdl/mystd_fsm.vhd 105 Process output_proc
+# 

@@ -1,0 +1,11 @@
+[hdl]
+last_project = $HDS_PROJECT_DIR\last_project\hdl
+[hds]
+last_project = $HDS_PROJECT_DIR\last_project\hds
+[hds_settings]
+default_library = last_project
+version = 2
+[library_type]
+last_project = regular
+[shared]
+others = $HDS_TEAM_HOME/shared.hdp

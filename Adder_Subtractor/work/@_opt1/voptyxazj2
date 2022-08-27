@@ -1,0 +1,51 @@
+m255
+K3
+13
+cModel Technology
+Z0 dF:\4th Level Semester 2\Logic 2 Projects\Adder_Subtractor
+T_opt
+Z1 Vj8=D4WN3BOaQ>OmJ_U4ZS1
+Z2 04 7 10 work add_sub behavioral 1
+Z3 =1-204747c22273-6239c490-3d8-258c
+Z4 o-quiet -auto_acc_if_foreign -work work +acc
+Z5 n@_opt
+Z6 OE;O;6.5;42
+T_opt1
+Z7 V5M;`gOo[RJR_CnoCY<ld23
+R2
+Z8 =1-204747c22273-628c907d-fa-3a4c
+R4
+Z9 n@_opt1
+R6
+Eadd_sub
+Z10 w1647953406
+Z11 DPx21 C:\modeltech_6.5\ieee 15 std_logic_arith 0 22 GJbAT?7@hRQU9IQ702DT]2
+Z12 DPx21 C:\modeltech_6.5\ieee 18 std_logic_unsigned 0 22 hEMVMlaNCR^<OOoVNV;m90
+Z13 DPx21 C:\modeltech_6.5\ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+31
+Z14 dF:\4th Level Semester 2\Logic 2\Logic 2 Projects\Adder_Subtractor
+Z15 8Add_Sub.vhd
+Z16 FAdd_Sub.vhd
+l0
+L33
+Z17 V5I^_O32A@[JOSVbzcBjYb0
+Z18 OE;C;6.5;42
+Z19 o-explicit -93
+Z20 tExplicit 1
+Z21 !s100 G2g1RbfhiBJz=m;C[IM0l1
+Abehavioral
+R11
+R12
+R13
+DEx70 F:\4th Level Semester 2\Logic 2\Logic 2 Projects\Adder_Subtractor\work 7 add_sub 0 22 5I^_O32A@[JOSVbzcBjYb0
+31
+Mx3 21 C:\modeltech_6.5\ieee 14 std_logic_1164
+Mx2 21 C:\modeltech_6.5\ieee 18 std_logic_unsigned
+Mx1 21 C:\modeltech_6.5\ieee 15 std_logic_arith
+l46
+L44
+Z22 VQRa6b>bZ[`JbBM2LiVQ^F2
+R18
+R19
+R20
+Z23 !s100 DEJM3XJ`miPa:K]55<V[_2

@@ -1,0 +1,40 @@
+m255
+K3
+13
+cModel Technology
+Z0 dF:\4th Level Semester 2\Logic 2\Logic 2 Projects\HDL Designer\Clocks\labsdpro_lib\work
+T_opt
+Z1 VM=9DW2@HlPZU__D=n:7CM0
+Z2 04 6 3 work struct fsm 1
+Z3 =1-204747c22273-628ca5cc-16e-1534
+Z4 o-quiet +acc -auto_acc_if_foreign -work labsdpro_lib -L labsdpro_lib
+Z5 n@_opt
+Z6 OE;O;6.5;42
+Estruct
+Z7 w1653384638
+Z8 DPx21 C:\modeltech_6.5\ieee 15 std_logic_arith 0 22 GJbAT?7@hRQU9IQ702DT]2
+Z9 DPx21 C:\modeltech_6.5\ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+32
+Z10 8F:/4th Level Semester 2/Logic 2/Logic 2 Projects/HDL Designer/Clocks/labsdpro_lib/hdl/struct_fsm.vhd
+Z11 FF:/4th Level Semester 2/Logic 2/Logic 2 Projects/HDL Designer/Clocks/labsdpro_lib/hdl/struct_fsm.vhd
+l0
+L13
+Z12 V:QRGK`9za>dSjYlzI[oQ@1
+Z13 OE;C;6.5;42
+Z14 o-work labsdpro_lib -nologo
+Z15 tExplicit 1
+Z16 !s100 E;8jP2WcOO2:99AlRSca72
+Afsm
+DEx86 F:\4th Level Semester 2\Logic 2\Logic 2 Projects\HDL Designer\Clocks\labsdpro_lib\work 6 struct 0 22 :QRGK`9za>dSjYlzI[oQ@1
+R8
+R9
+32
+Mx2 21 C:\modeltech_6.5\ieee 14 std_logic_1164
+Mx1 21 C:\modeltech_6.5\ieee 15 std_logic_arith
+l53
+L39
+Z17 V>ldY5DDWbQRobCiO7NUX`0
+R13
+R14
+R15
+Z18 !s100 2hfQaIHkKl]b1JjI<jmGL2

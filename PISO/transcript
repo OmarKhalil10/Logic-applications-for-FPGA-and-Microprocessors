@@ -1,0 +1,39 @@
+# Reading C:/modeltech_6.5/tcl/vsim/pref.tcl 
+# //  ModelSim SE 6.5 Jan 22 2009 
+# //
+# //  Copyright 1991-2009 Mentor Graphics Corporation
+# //              All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND 
+# //  PROPRIETARY INFORMATION WHICH IS THE PROPERTY
+# //  OF MENTOR GRAPHICS CORPORATION OR ITS LICENSORS
+# //  AND IS SUBJECT TO LICENSE TERMS.
+# //
+# do {PISO.fdo} 
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim SE vcom 6.5 Compiler 2009.01 Jan 22 2009
+# -- Loading package standard
+# -- Loading package std_logic_1164
+# -- Compiling entity piso
+# -- Compiling architecture behavioral of piso
+# vsim -lib work -voptargs=\"+acc\" -t 1ps work.PISO 
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading work.piso(behavioral)#1
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body
+force -freeze sim:/piso/data_in 00110010 0
+force -freeze sim:/piso/clk 0 0
+noforce sim:/piso/clk
+force -freeze sim:/piso/clk 1 0, 0 {50 ps} -r 100
+force -freeze sim:/piso/rst 0 0
+force -freeze sim:/piso/en 1 0
+force -freeze sim:/piso/mode 1 0
+run
+run
+force -freeze sim:/piso/mode 0 0
+run
+run
+run
+run

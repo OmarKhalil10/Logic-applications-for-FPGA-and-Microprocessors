@@ -1,0 +1,40 @@
+m255
+K3
+13
+cModel Technology
+Z0 dF:\4th Level Semester 2\Logic 2\Logic 2 Projects\HDL Designer\HDS\my_project4\my_project4_lib\work
+T_opt
+Z1 V0Fd^4OOAHaTY[gHob?zW32
+Z2 04 5 3 work mystd fsm 1
+Z3 =1-204747c22273-628ca955-1e3-a84
+Z4 o-quiet +acc -auto_acc_if_foreign -work my_project4_lib -L my_project4_lib
+Z5 n@_opt
+Z6 OE;O;6.5;42
+Emystd
+Z7 w1653385543
+Z8 DPx21 C:\modeltech_6.5\ieee 15 std_logic_arith 0 22 GJbAT?7@hRQU9IQ702DT]2
+Z9 DPx21 C:\modeltech_6.5\ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+32
+Z10 8F:/4th Level Semester 2/Logic 2/Logic 2 Projects/HDL Designer/HDS/my_project4/my_project4_lib/hdl/mystd_fsm.vhd
+Z11 FF:/4th Level Semester 2/Logic 2/Logic 2 Projects/HDL Designer/HDS/my_project4/my_project4_lib/hdl/mystd_fsm.vhd
+l0
+L13
+Z12 VdLB_PGn:jX>41<6bl3OMz2
+Z13 OE;C;6.5;42
+Z14 o-work my_project4_lib -nologo
+Z15 tExplicit 1
+Z16 !s100 k1iRKH?8z]d^>GYzF@4OD3
+Afsm
+DEx98 F:\4th Level Semester 2\Logic 2\Logic 2 Projects\HDL Designer\HDS\my_project4\my_project4_lib\work 5 mystd 0 22 dLB_PGn:jX>41<6bl3OMz2
+R8
+R9
+32
+Mx2 21 C:\modeltech_6.5\ieee 14 std_logic_1164
+Mx1 21 C:\modeltech_6.5\ieee 15 std_logic_arith
+l50
+L38
+Z17 VBOS<loJB[i1^jUJEG[<0k2
+R13
+R14
+R15
+Z18 !s100 f0E2?lOei:hj=bKQ;7f2^2

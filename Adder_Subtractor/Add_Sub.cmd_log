@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "F:/4th Level Semester 2/Logic 2 Projects/Adder_Subtractor/Add_Sub.xst" -ofn "F:/4th Level Semester 2/Logic 2 Projects/Adder_Subtractor/Add_Sub.syr" 

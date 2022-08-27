@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "F:/4th Level Semester 2/Logic 2 Projects/Demux1-8/demux.xst" -ofn "F:/4th Level Semester 2/Logic 2 Projects/Demux1-8/demux.syr" 
